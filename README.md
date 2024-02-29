@@ -1,6 +1,3 @@
 # gyakorlas
 ## IKT órai munka
-
-SZia dáviiid
-
-szia zooooliiiii
+csak én dolgozom
